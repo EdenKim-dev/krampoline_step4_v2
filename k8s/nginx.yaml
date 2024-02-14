@@ -56,4 +56,4 @@ spec:
             pathType: Prefix
             backend:
               serviceName: nginx-service
-              servicePort: 3000
+              servicePort: 80
